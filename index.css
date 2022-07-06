@@ -1,0 +1,41 @@
+h1 {
+  font-size: 135px;
+  color: #E93B81;
+  font-weight: bolder;
+  font-family: cursive monospace;
+  margin-top: 80px;
+}
+body {
+  text-align: center;
+  background-color: #CAB8FF;
+}
+
+h3 {
+  font-size: 45px;
+  font-family: sans-serif;
+  color:#7F7C82;
+}
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 20%;
+
+}
+.p1 {
+  position: absolute;
+  left:500px;
+  top:300px;
+}
+.p2 {
+  position: absolute;
+  right:500px;
+  top:300px;
+}
+p {
+  color: white;
+  padding-bottom: 80px;
+  font-size: 30px;
+  position: absolute;
+  top:800px;
+  left:750px;
+}
